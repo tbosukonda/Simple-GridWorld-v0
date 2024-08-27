@@ -1,4 +1,3 @@
-#GridWorld
 
 This is a simple interactive Gridworld MDP.
 - One starts at the Blue square, and their goal is to to go to the green square.
